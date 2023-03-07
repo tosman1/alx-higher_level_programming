@@ -21,9 +21,9 @@ Simultaneously, I continued to reinforce and expand my skills in C and shell scr
 
 
 
-## Author :black_nib:
+## Author :Oluwatomisin Rahman:
 
-* **Prince Solomon** [princexz](https://github.com/princexz)
+* **Oluwatomisin Rahman** [tosman1](https://github.com/tosman1)
 
 ## Acknowledgements :pray:
 
